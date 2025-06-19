@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+playwright==1.44.0
+imapclient==3.0.0
+mailparser==3.15.0
+pillow
+pytesseract
+openai
